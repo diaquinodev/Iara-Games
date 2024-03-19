@@ -27,5 +27,5 @@ Abaixo dos menus, estão os cards mostrando os jogos disponíveis para escolha. 
 PRÓXIMA FASE:
 Estamos planejando adicionar mais interações e funcionalidades ao site.
 
-3# ACESSIBILIDADE:
+## 3 ACESSIBILIDADE:
 Para garantir acessibilidade, implementamos as tags alt e title no HTML com descrições adequadas das imagens, proporcionando uma experiência inclusiva para todos os usuários.
