@@ -3,7 +3,6 @@
 
 # Equipe Composto por 4 pessoas sendo:
 = Diego
-= Liana
 = Renata
 = Wagner
 
