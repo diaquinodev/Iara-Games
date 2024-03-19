@@ -2,7 +2,7 @@
 # Grupo 44
 
 # Equipe Composto por 4 pessoas sendo:
-= Deego
+= Diego
 = Liana
 = Renata
 = Wagner
