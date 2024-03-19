@@ -1,34 +1,33 @@
-# Nosso Projeto de Atividade 3 ==============================================================
-# Grupo 51
+Nosso Projeto de Atividade 3 ==============================================================
+Grupo 51
+Equipe Composta por 4 pessoas:
+Diego
+Renata
+Wagner
+Título do projeto:
+Iara Games
 
-# Equipe Composto por 4 pessoas sendo:
-= Diego
-= Renata
-= Wagner
+Linguagens Utilizadas:
+HTML5: como linguagem de marcação
+CSS: para estilizar as páginas
+VSCOnde: como plataforma de desenvolvimento do projeto
+Repositório de armazenamento:
+Github
+
+Objetivo do projeto:
+Este projeto visa apoiar os desenvolvedores brasileiros de jogos, oferecendo uma plataforma para os usuários acessarem e escolherem os jogos.
+
+Visão do Site:
+A estrutura do site é composta por uma página inicial contendo os principais elementos de interação, como:
+
+Menus superiores para navegar entre as seções do site.
+Abaixo dos menus, estão os cards mostrando os jogos disponíveis para escolha. Os usuários podem selecionar o jogo que desejam conhecer e decidir jogar.
+Próxima Fase:
+Estamos planejando adicionar mais interações e funcionalidades ao site.
+
+Acessibilidade:
+Para garantir acessibilidade, implementamos as tags alt e title no HTML com descrições adequadas das imagens, proporcionando uma experiência inclusiva para todos os usuários.
 
 
-# Titulo do projeto: 
-> Iara Games
 
-# Linguagem aplicada:
-- HTML5: como linguagem de marcação
-- CSS: para estilizar as paginas
-- VSCOnde: como plataforma de desenvolvimento do projeto
-
-
-# Repositóro de armazenamento:
-> Github
-
-
-# Objetivo do projeto: 
-Onde visa apoiar os desenvolvedores Brasileiros de Games. Uma página para os usuarios acessarem e poder escolher os jogos
-
-# Visão do Site:
-> Estrutura composto por pagina inicial contendo os principais elementos de ação como:
-menus superiores para navegar entre as sessões do site.
-
-Abaixo dos menus, ficam os cards mostrando os jogos para escolha, os ususarios podem mescolher qual jogo deseseja conhecer e descidir jogar. 
-
-# Próxima Fase:
-Com mais interações e funcionalidades
 
