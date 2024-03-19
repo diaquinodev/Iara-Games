@@ -29,3 +29,7 @@ Onde visa apoiar os desenvolvedores Brasileiros de Games. Uma página para os us
 menus superiores para navegar entre as sessões do site.
 
 Abaixo dos menus, ficam os cards mostrando os jogos para escolha, os ususarios podem mescolher qual jogo deseseja conhecer e descidir jogar. 
+
+# Próxima Fase:
+Com mais interações e funcionalidades
+
