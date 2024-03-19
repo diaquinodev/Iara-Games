@@ -1,33 +1,29 @@
-Nosso Projeto de Atividade 3 ==============================================================
-Grupo 51
+NOSSO PROJETO DE ATIVIDADE 3 ==============================================================
+GRUPO 51
 Equipe Composta por 4 pessoas:
 Diego
 Renata
 Wagner
-Título do projeto:
+TÍTULO DO PROJETO:
 Iara Games
 
-Linguagens Utilizadas:
+LINGUAGENS UTILIZADAS:
 HTML5: como linguagem de marcação
 CSS: para estilizar as páginas
 VSCOnde: como plataforma de desenvolvimento do projeto
-Repositório de armazenamento:
+REPOSITÓRIO DE ARMAZENAMENTO:
 Github
 
-Objetivo do projeto:
+OBJETIVO DO PROJETO:
 Este projeto visa apoiar os desenvolvedores brasileiros de jogos, oferecendo uma plataforma para os usuários acessarem e escolherem os jogos.
 
-Visão do Site:
+VISÃO DO SITE:
 A estrutura do site é composta por uma página inicial contendo os principais elementos de interação, como:
 
 Menus superiores para navegar entre as seções do site.
 Abaixo dos menus, estão os cards mostrando os jogos disponíveis para escolha. Os usuários podem selecionar o jogo que desejam conhecer e decidir jogar.
-Próxima Fase:
+PRÓXIMA FASE:
 Estamos planejando adicionar mais interações e funcionalidades ao site.
 
-Acessibilidade:
+ACESSIBILIDADE:
 Para garantir acessibilidade, implementamos as tags alt e title no HTML com descrições adequadas das imagens, proporcionando uma experiência inclusiva para todos os usuários.
-
-
-
-
